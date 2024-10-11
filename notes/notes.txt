@@ -1,3 +1,16 @@
+module-7
+1. array, array declare, dataType-arrayName-size,
+2. array acces, memory allocation/distribution, memory address, arr[index]
+3. array input and output use
+4. array initialized, array initialize with value or 0,
+5. array revers, array input variable, variable not possible to initialized, 
+6. array sum and avarage value
+7. array max and min
+
+
+
+
+
 module-3
 1. loop, for loop, while loop, do while loop
 2. 1 to n number print and sum
