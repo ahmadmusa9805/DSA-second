@@ -1,0 +1,30 @@
+module-3
+1. loop, for loop, while loop, do while loop
+2. 1 to n number print and sum
+3. loop with conditional statement 
+4. break and continue
+5. while loop and do while loop
+
+module-2
+1. arithmatic operator = plus, minus, multiplication, division, modulus.
+2. relational opefrator = ==, !=, >, <, >=, <=, it's givr boolean value
+3. logical operator = &&, ||, !, it's give boolean value
+4. conditional statement, odd and event program
+5. if else ladder
+6. nested if else
+7. switch case
+
+module-1 
+1. computer programm, 
+2. c programming 
+3. basic structure,
+header and body, stdio.h, stdlib.h, math.h, time.h,string.h   
+ function and library, printf, chanf, return, main(), #include
+4. data-type, char, int, float, double, long/long long int, string, format spacifier (%d, %s, %f, %lf, %c) code run, 
+5. input, escape sequence, \n, \t, ", ', \\, %%
+6. data type limitations, int 16/32, long long/long 64, float 32, char 8, 
+7. variable naming convention
+
+
+
+
